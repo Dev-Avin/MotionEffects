@@ -11,7 +11,6 @@ This project is a React-based clone of the "Motion Art for Elementor" website, i
 - **Intuitive Interface**: Designed to be user-friendly, providing a smooth experience for both designers and visitors.
 - **Browser Compatibility**: Supported by all major web browsers.
 - **Lightweight**: Optimized for performance without compromising on visual appeal.
-- **Global Reach**: Trusted by thousands of users around the world.
 
 ## Installation
 
