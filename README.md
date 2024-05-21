@@ -19,12 +19,12 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/motion-art-for-elementor-clone.git
+    git clone https://github.com/Dev-Avin/MotionEffects.git)
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd motion-art-for-elementor-clone
+    cd MotionEffects
     ```
 
 3. **Install dependencies**:
@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
     npm start
     ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:5173`.
 
 ## Usage
 
