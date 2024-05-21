@@ -482,6 +482,9 @@ height: 100vh;
   .magicImg{
     margin: 20px;
   }
+  .applicationText{
+    font-size: 2rem;
+  }
   .applicationContainer{
     width: 100%;
   }

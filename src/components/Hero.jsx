@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <div className='hero'>
         <div className='heroSide'>
-            <GradientText text={'Transform '}/><br></br>
-            <GradientText text={'Your Website'}/><br></br><br></br>
+            <GradientText text={'Transform '}/>
+            <GradientText text={'Your Website'}/>
             <div style={{marginTop: '20px'}}>
             <div> With Motion </div>
             <div>    Art Effect</div>

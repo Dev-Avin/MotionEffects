@@ -64,6 +64,7 @@ const Features = () => {
           </div>
         </div>
       </div>
+      <div style={{marginBottom: '200px'}}></div>
     </div>
   );
 }
