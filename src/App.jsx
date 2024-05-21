@@ -19,7 +19,7 @@ function App() {
         <Support/>
         <Features/>
         <div className='footer'>
-          <div> © 2023 Copywrite. All rights reserved by QodeMatrix.
+          <div className='align'>  © 2023 Copywrite. All rights reserved by QodeMatrix.
           </div>
           <div className='footerLinks'>
             <div className='link '>Documentation</div>

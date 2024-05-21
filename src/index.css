@@ -503,4 +503,7 @@ height: 100vh;
   .footer{
     flex-direction: column-reverse;
   }
+  .align{
+    text-align: center;
+  }
 }
