@@ -22,8 +22,8 @@ function App() {
           <div className='align'>  © 2023 Copywrite. All rights reserved by QodeMatrix.
           </div>
           <div className='footerLinks'>
-            <div className='link '>Documentation</div>
-            <div className='link '>Support</div>
+            <a className='link' href="https://qodematrix.com/docs/motion-art-for-elementor/">Documentation</a>
+            <a className='link' href="https://support.qodematrix.com/">Support</a>
             
           </div>
         </div>

@@ -44,7 +44,7 @@ const Application = () => {
       <div className='applicationText'>
         Apply On Any Section Or Enable For Whole Page
       </div>
-      <div className='applicationSub' ref={containerRef}>
+      <div className='applicationSub'  ref={containerRef}>
         <div className='container applicationContainer' data-animation='moveDown'>
           <div className='sectionHeading'>
             Apply On Section

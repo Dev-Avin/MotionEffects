@@ -36,7 +36,9 @@ const Features = () => {
   }, []);
 
   return (
-    <div className='features'>
+    <>
+    <div style={{display : "flex" , justifyContent : "center" , alignItems : "center"}}>
+    <div className='features adj'>
       <div className='featureHead'>An All-Round Plugin With Powerful Features</div>
       <div className='featureSubHead'>
         Whether you're a seasoned web designer or just starting out, Motion Art for Elementor seamlessly integrates with the Elementor platform, providing you with a seamless and intuitive experience.
@@ -64,8 +66,10 @@ const Features = () => {
           </div>
         </div>
       </div>
-      <div style={{marginBottom: '200px'}}></div>
     </div>
+    </div>
+      <div style={{marginBottom: '200px'}}></div>
+      </>
   );
 }
 
