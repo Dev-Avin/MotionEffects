@@ -194,6 +194,7 @@ height: 100vh;
   font-weight: 300;
   border: none;
   cursor: pointer;
+  pointer-events: all;
   margin-top: 20px;
   transition: 0.3s; 
 }
