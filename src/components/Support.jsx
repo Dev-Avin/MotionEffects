@@ -5,7 +5,7 @@ const Support = () => {
   return (
     <>
       <div style={{ marginTop: '70px', display: 'flex', justifyContent: 'center' }}>
-      <div className='container' style={{ width: '70%' }}>
+      <div className='container adj'>
         <div className='support'>
           <div className='supportHeading'>
             Supported by All Popular Browsers
